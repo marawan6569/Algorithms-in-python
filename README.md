@@ -1,2 +1,2 @@
 # Algorithms-in-python
-grokking lgorithms)
+Algorithms in python (Grokking Algorithms)
